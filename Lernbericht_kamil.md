@@ -11,7 +11,7 @@ Ich habe gelernt, wie man eine Verbindung in den App findet.
 zuerst muss man auf Timetable drücken, dann gibt man die Abfahrt- und Ankunftsort, danach gibt man die Datum und die Zeit ein(Automatisch ist es heutige Datum und Zeit). Nachher sieht man die Verbindungen, die vorgeschlagen würden, man sieht alle Informationen über die Verbindungen, Zügen z. B. Abfahrt- und Ankunftszeiten, Gleis, Zugnummer, Umsteigelokationen, Verspätungen, Gleiswechsel, die Besetzung eines Zuges usw. Man kann auch Verbindungen, die man gut findet, zum "My Trips " hinzufügen, sodass man sie schneller findet und eine Erinnerungsnachricht bekommt. Wenn man eine Verbindung ausgewählt hat, kann man ein Ticket Kaufen
 
 [Link zum Video, welches den Ablauf Zeigt](https://youtube.com/shorts/BPr9PB4qVWE?feature=share)
-
+![Bild](https://imgur.com/gallery/Sikklvq)
 ## Verifikation
 
 Ich habe gelernt, wie man den SBB App benutzt bzw. wie man Verbindungen auswählt, Ticket kauft oder eine Rückzahlung bekommt.
