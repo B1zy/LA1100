@@ -18,6 +18,7 @@ danach gibt man die Datum und Zeit ein(Automatisch ist es Heutige Datum und Zeit
 Nachher sieht man die Verbindungen die Vorgeschlagen würden, man sieht alle Informationen über die VerbindungenZugen 
 z.B. Abfahrts- und Ankunftszeiten, Gleis, Zugnummer, Umsteigelokationen und die Besetzung eines Zuges.
 
+yt link https://youtube.com/shorts/BPr9PB4qVWE?feature=share
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
