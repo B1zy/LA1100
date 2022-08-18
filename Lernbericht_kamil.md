@@ -11,26 +11,34 @@ Ich habe gelernt wie man eine Verbindung in den App findet.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
 Zerst muss man Auf Timetable drücken, dann gibt man die Abfahrts- und Ankunftsort,
 danach gibt man die Datum und Zeit ein(Automatisch ist es Heutige Datum und Zeit).
 Nachher sieht man die Verbindungen die Vorgeschlagen würden, man sieht alle Informationen über die VerbindungenZugen 
-z.B. Abfahrts- und Ankunftszeiten, Gleis, Zugnummer, Umsteigelokationen und die Besetzung eines Zuges.
+z.B. Abfahrts- und Ankunftszeiten, Gleis, Zugnummer, Umsteigelokationen, Verspätungen, Gleiswechsel, die Besetzung eines Zuges, usw.
+Man kann auch Verbindungen die man gut findet zum "My Trips " hinzufügen, sodass man sie schneller findet und 
+eine Errinerungsnachricht bekommt. Wenn man eine Verbinung ausgewählt hat, kann man ein Ticket Kaufen
 
-yt link https://youtube.com/shorts/BPr9PB4qVWE?feature=share
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+[Link zum Video, welches den Ablauf Zeigt](https://youtube.com/shorts/BPr9PB4qVWE?feature=share)
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Ich habe gelernt wie man den SBB App benuzt, bzw. wie man Verbindungen Auswählt, Ticket kauft oder eine Rückzahlung bekommt.
+
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+**Das lieft mir gut:**
+Ich habe jeden Morgen und Nach der Schule richtige Verbindung Ausgewählt und damit auch gefahren.
+Ich habe auch immer rechtzetig gemerkt wenn es eine Änderung in den Verbindung gab.
 
-👎 und etwas, was nicht gut lief.
+**Das lief mir nicht gut:**
+Am ersten Tag habe ich drei Tickets gekauft auf Züge mit welchen ich gar nicht gefahren habe,
+weil sie eine Verspätung hatten, und ich habe nicht eine Rückzahlung bekommen, weil ich wusste nicht wie es geht.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
+
+
+**VBV**: 
+Ich werde entweder ein SBB Abonament kaufen oder die Tickets in dem Zug kaufen. 
+Wenn ich ein Ticket nicht brauchen würde, weiss ich jezt wie man eine Rückzahlung bekommt.
+
