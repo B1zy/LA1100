@@ -1,6 +1,6 @@
 #Code
 
-`
+```
 using System;
 
 namespace Number_guessing_game
@@ -55,4 +55,5 @@ namespace Number_guessing_game
 
         }
     }
-}`
+}
+```
