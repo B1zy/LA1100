@@ -24,13 +24,23 @@ damit meine ich, wenn man am Anfang den Befehl schreibt, dass die Farbe Rot sein
 
 
 ```
+using System;
+
+namespace ConsoleApp4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
             Console.BackgroundColor = ConsoleColor.Blue;
             // here you can change the background of the output font !Important: It only changes the font background, not the whole console bckground
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
             // here you can change the font color of the console output
-            
-            Console.WriteLine("Helo World!");
-            // The console output will be darkmagneta on a blue background
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
 ```
 
 ## Verifikation
