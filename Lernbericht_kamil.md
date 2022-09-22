@@ -17,7 +17,7 @@ Ich habe gelernt, wie man die Konsolenausgabe farbig machen kann
 Mit dem Befehl `Console.ForegroundColor = ConsoleColor.Red` kann man die Konsolenausgabe (Font) rot machen.
 Mit dem Befehl `Console.BackgroundColor = ConsoleColor.Grey`kann man den Hintergrund in einer anderen Farbe haben,
 Leider sieht Background nicht so schön aus wie bei Foreground. Die beiden Befehlen werden so lange ausgeführt, bis es zu einer anderen Farbe gewechselt wird,
-damit meine ich, wenn man am Anfang den Befehl schreibt, dass die Farbe Rot sein sollte, dann werden alle Console.WriteLine's rot ausgegeben
+damit meine ich, wenn man am Anfang den Befehl schreibt, dass die Farbe Rot sein sollte, dann werden alle Console.WriteLine's rot ausgegeben bis es wieder gewechselt wird
 
 
 ![Bild](https://i.imgur.com/bumtbER.png)
